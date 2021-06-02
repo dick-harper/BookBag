@@ -1,1 +1,1 @@
-console.write('Welcome to BookBag!');
+console.log('Welcome to BookBag!');
